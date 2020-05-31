@@ -23,3 +23,12 @@ Classification problem to predict weather the person survived or not during the 
 - Cross Validation 
 - Hyperparamter tunning
 - Logistic Regression and Random Forest Model
+
+## 3.Career Village
+This competetion contains dataset from **https://www.careervillage.org/** , We need to be able to send the right questions to the right volunteers and get the insights of the data.
+
+**Skills Appied**:
+- Data Cleaning
+- EDA
+- Data Visualization
+- Build WordCloud
