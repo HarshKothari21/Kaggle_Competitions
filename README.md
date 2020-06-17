@@ -11,7 +11,7 @@ Predict House-Price on DataSet that conatins 81 features and 3000 Rows(1460 for 
 - Feature Engineering
 - Random Forest Model and XgBoost
 - Hyperparamter tunning
-- AI using Keras
+- Deep Learning using Keras
 
 ## 2. Titanic
 Classification problem to predict weather the person survived or not during the famous titanic Accident.
@@ -32,3 +32,5 @@ This competition contains dataset from **https://www.careervillage.org/** , We n
 - EDA
 - Data Visualization
 - Build WordCloud
+
+## 4.Don't Overfit the Model
