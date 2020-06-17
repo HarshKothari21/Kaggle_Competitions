@@ -34,3 +34,4 @@ This competition contains dataset from **https://www.careervillage.org/** , We n
 - Build WordCloud
 
 ## 4.Don't Overfit the Model
+A binary classification task to train a model with 300 features and only 250 training examples and 79times more samples on test data.
