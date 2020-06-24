@@ -20,6 +20,7 @@ Classification problem to predict weather the person survived or not during the 
 - Data Cleaning
 - EDA
 - Feature Engineering
+- Scaling
 - Cross Validation 
 - Hyperparamter tunning
 - Logistic Regression | SVM | SVC | KNN | Decision Tree |Random Forest Model
