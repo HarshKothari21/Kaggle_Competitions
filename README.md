@@ -22,7 +22,7 @@ Classification problem to predict weather the person survived or not during the 
 - Feature Engineering
 - Cross Validation 
 - Hyperparamter tunning
-- Logistic Regression and Random Forest Model
+- Logistic Regression | SVM | SVC | KNN | Decision Tree |Random Forest Model
 
 ## 3.Career Village
 This competition contains dataset from **https://www.careervillage.org/** , We need to be able to send the right questions to the right volunteers and get the insights of the data.
