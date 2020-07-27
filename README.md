@@ -4,25 +4,25 @@ It's about my analysis on large and real life problem based competitions @kaggle
 ## 1. House Price
 Predict House-Price on DataSet that conatins 81 features and 3000 Rows(1460 for Train and 1459 for Test).
 
-**Skills Appied**:
+**Skills Applied**:
 - Data Cleaning
 - EDA
 - Feature Selection
 - Feature Engineering
 - Random Forest Model and XgBoost
-- Hyperparamter tunning
+- Hyperparameter tuning
 - Deep Learning using Keras
 
 ## 2. Titanic
 Classification problem to predict weather the person survived or not during the famous titanic Accident.
 
-**Skills Appied**:
+**Skills Applied**:
 - Data Cleaning
 - EDA
 - Feature Engineering
 - Scaling
 - Cross Validation 
-- Hyperparamter tunning
+- Hyperparameter tuning
 - Logistic Regression | SVM | SVC | KNN | Decision Tree |Random Forest Model
 
 ## 3.Career Village
